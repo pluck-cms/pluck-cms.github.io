@@ -367,7 +367,8 @@ Full-Width Styles
 }
 
 
-
+main {max-width:1124px;margin:auto;display:block;padding:1em}
+main.widepage {max-width:100%;padding:0}
 /*******************************************************************************
 Small Device Styles
 *******************************************************************************/
